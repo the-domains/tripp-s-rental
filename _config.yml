@@ -2,6 +2,7 @@ name: "Tripp's Rental"
 favicon: null
 layout_spectrum: 0.27407790860161185
 typography_spectrum: 0.15793772088363767
+title: "Tripp's Rental"
 cta:
   domain: null
   bucket: null
